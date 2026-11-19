@@ -1,0 +1,30 @@
+{
+  "hcp": {
+    "sha256": "93f0defbdafc63c5d762a642c382251879b9b6bfa4c7d5fb35b0bc5a608fd8a1",
+    "certificate": {
+      "S": 1000000,
+      "D": 1912002,
+      "H": 637334,
+      "sections": 321,
+      "points": 157528,
+      "N": 695014335915313293,
+      "M": 6989804462486944008,
+      "lower_numerator": 99432586,
+      "lower_denominator": 1000000000
+    }
+  },
+  "ab": {
+    "sha256": "1f96cdc076a591c6e04fbed945d1a7a73a501e415a59a36e1721f2d5e0b13098",
+    "certificate": {
+      "S": 1000000,
+      "D": 1918998,
+      "H": 632654,
+      "sections": 321,
+      "points": 160229,
+      "N": 695093978461504066,
+      "M": 6989346271933279848,
+      "lower_numerator": 99450499,
+      "lower_denominator": 1000000000
+    }
+  }
+}
